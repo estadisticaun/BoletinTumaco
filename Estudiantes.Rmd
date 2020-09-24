@@ -29,7 +29,7 @@ A continuación, se presenta la información oficial del total de estudiantes ma
 
 ### Evolución histórica
 
-A continuación, la Figura \@ref(fig:F1MatPre), presenta la evolución histórica -*desde el periodo 20091*-, del total de matriculados en pregrado en la **Sede Tumaco**.
+A continuación, la Figura \@ref(fig:F1MatPre), presenta la evolución histórica -*desde el periodo 20151*-, del total de matriculados en pregrado en la **Sede Tumaco**.
 
 ```{r F1MatPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional Información Académica'}
 SERIE_MAT_PRE
