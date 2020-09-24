@@ -1,0 +1,56 @@
+# Introducción {-#intro}
+
+## Misión {-#mision}
+
+Como Universidad de la nación fomenta el acceso con equidad al sistema educativo colombiano, provee la mayor oferta de programas académicos, forma profesionales competentes y socialmente responsables. Contribuye a la elaboración y resignificación del proyecto de nación, estudia y enriquece el patrimonio cultural, natural y ambiental del país. Como tal lo asesora en los órdenes científico, tecnológico, cultural y artístico con autonomía académica e investigativa.
+
+## Visión 2034 {-#vision}
+
+En el año 2034 somos la principal universidad colombiana, reconocida por su contribución a la Nación, y por su excelencia en los procesos de formación, investigación, e innovación social y tecnológica. Nuestra capacidad de reinventarnos nos ha llevado a tener una organización académica y administrativa novedosa, flexible, eficiente y sostenible, con comunicación transparente y efectiva en su interior, con la Nación y con el mundo, y comprometida con los procesos de transformación social requeridos para alcanzar una sociedad equitativa, incluyente y en paz. 
+
+## Historia {-#hist}
+
+La Sede Tumaco fue creada mediante el acuerdo 14 de 1997 del Consejo Superior Universitario.Su puesta en marcha se inició en 2009 con la creación del Instituto de Estudios del Pacífico (IEP), como unidad académica básica de la Sede.
+
+En 2011, se adquirió un predio de 44.7 hectáreas en el kilómetro 30 de la vía nacional Tumaco-Pasto.
+
+La Sede Tumaco inauguró en 2014 el edificio del Centro de Estudios del Pacífico (CEP). Esta obra, que fue realizada gracias al impulso dado por el financiamiento nacional e internacional, respondió a la necesidad de contar con instalaciones acordes con la propuesta académica que se viene implementando en la Sede.
+
+En 2015, la Sede Tumaco recibió la primera cohorte de estudiantes bajo la modalidad del Programa Especial de Admisión y Movilidad Académica (PEAMA). Este programa ha permitido avanzar hacia las metas educativas propuestas por la Universidad para la región Pacífica colombiana.
+
+
+## Ubicación {-#ubica}
+
+La Sede Tumaco de la Universidad Nacional de Colombia se encuentra ubicada en la Carretera Nacional vía a Tumaco - Pasto, entre Km. 30 y, Tumaco, San Andres de Tumaco, Nariño, Colombia.
+
+<html>
+<center>
+<body>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255247.5782044789!2d-78.860606275084!3d1.6099164988260086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e2cf71eb7ab1b4b%3A0xb3fbd1f7a3460fc7!2sUniversidad%20Nacional%20de%20Colombia%20sede%20Tumaco!5e0!3m2!1ses!2sco!4v1600904621291!5m2!1ses!2sco" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+</body>
+</center>
+</html>
+
+
+## PEAMA {-#peama}
+
+**Programa especial de admisión y movilidad académica – Peama** 
+
+Los procesos de formación en pregrado en la Universidad Nacional de Colombia Sede Tumaco se desarrollan a través del programa especial de admisión y movilidad académica – Peama. Este programa fue creado por la Universidad a través del Acuerdo del Consejo Superior Universitario N.° 025 de 2007, con el objetivo de participar activamente en el desarrollo social de las regiones fronterizas, a través de la formación profesional de los futuros líderes científicos, empresariales y políticos del país, siendo el modelo en el que opera la formación en las sedes de presencia nacional siendo estas la Sede Amazonia, la Sede Tumaco, la Sede Tumaco y la Sede Orinoquía.
+
+Aspectos como la escasa oferta de programas de pregrado en las regiones ubicadas en las fronteras del país, la dificultad económica para llevar carreras completas a estas regiones, una posible saturación del mercado laboral por la reducida oferta de programas de pregrado, el desarrollo regional que supone la presencia de diferentes áreas del conocimiento teniendo en cuenta las vocaciones de las regiones y las fortalezas institucionales de la Universidad Nacional de Colombia, fueron las situaciones que originaron la creación del Peama, para las Sedes de Presencia Nacional. El programa consiste en la oferta de programas curriculares de pregrado de las sedes Bogotá, Manizales, Medellín y Palmira a bachilleres residentes en las regiones de influencia de las Sedes de Presencia Nacional. Para el caso de la Sede Tumaco, participan los estudiantes egresados de la educación media de algunos municipios de los departamentos de Nariño, Cauca, Chocó y Putumayo. Específicamente, los municipios de Barbacoas, El Charco, Guaitarilla, La Tola, Magüi Payan, Mallama, Mosquera, Olaya Herrera, Pizarro, Providencia, Ricaurte, Roberto Payan y Santa Bárbara de los departamentos de Chocó y Putumayo; los municipios de Guapi, López de Micay y Timbiquí en el Departamento del Cauca y el municipio de Tumaco en el Departamento de Nariño.
+
+**Etapas**
+
+El Peama tiene las siguientes etapas de formación: 
+
+_**Etapa inicial**_: una vez admitido, el estudiante inicia estudios en la Sede de Presencia Nacional, en donde cursará algunas asignaturas. Esta etapa inicial podrá variar para cada estudiante según su desempeño en el examen de admisión, los requerimientos del programa curricular al que haya sido admitido y de acuerdo con la disponibilidad de los programas que se puedan ofrecer en la Sede de Presencia Nacional. 
+
+_**Etapa de movilidad**_: iniciará movilidad a las sedes donde se ofrece el programa seleccionado. Como parte de la movilidad académica, el estudiante continuará los cursos del plan de estudios establecido, en la sede que ofrece el programa en el cual fue admitido.
+
+_**Etapa final**_: Para terminar el programa, el estudiante se desplazará a la Sede de Presencia Nacional con el fin de realizar su trabajo de grado. Cuando esto no sea posible, el estudiante deberá hacer su trabajo de grado, preferentemente, en temas de interés para su región.
+
+
+
