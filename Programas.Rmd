@@ -15,5 +15,5 @@ knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALS
 
 ## Pregrado
 
-## Postgrado
+
 

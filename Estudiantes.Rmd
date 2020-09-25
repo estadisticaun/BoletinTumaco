@@ -1,20 +1,19 @@
 # Estudiantes {#Estudiantes}
 
-Este capítulo presenta el consolidado de las principales características asociadas a la información estadística oficial de los estudiantes matriculados en pregrado y postgrado en la sede Tumaco de la Universidad Nacional de Colombia. A continuación, se presenta una breve descripción de las secciones que hacen parte de este capítulo así como la ubicación del sitio web en donde se presentan las definiciones, los estándares y las codificaciones/clasificaciones que hacen parte de la información acá contenida (*metadatos*) y cuya exploración y lectura, sin duda, facilitará el entendimiento de las cifras asociadas a las poblaciones de estudiantes matriculados. 
+Este capítulo presenta el consolidado de las principales características asociadas a la información estadística oficial de los estudiantes matriculados en pregrado en la sede Tumaco de la Universidad Nacional de Colombia. A continuación, se presenta una breve descripción de las secciones que hacen parte de este capítulo así como la ubicación del sitio web en donde se presentan las definiciones, los estándares y las codificaciones/clasificaciones que hacen parte de la información acá contenida (*metadatos*) y cuya exploración y lectura, sin duda, facilitará el entendimiento de las cifras asociadas a las poblaciones de estudiantes matriculados. 
 
+La Sede Tumaco en la actualidad no cuenta con programas de postgrado. Por lo anterior, en este capítulo no se dispone información estadística para este nivel de formación.
 
 <h3>**Secciones**</h3> 
 
 
-El proceso de formación en pregrado en la Sede Tumaco se da a la luz de los lineamientos definidos en el Programa Especial de Admisión y Movilidad Académica el cual, como se presenta en la sección [PEAMA](#peama) del presente boletín, consta de tres etapas: *etapa inicial*, *etapa de movilidad* y *etapa final*. Teniendo en cuenta lo anterior, en este capítulo se presentan las estadísticas oficiales asociadas a cuatro poblaciones de estudiantes matriculados en la Sede Tumaco de la Universidad Nacional de Colombia.  
+El proceso de formación en pregrado en la Sede Tumaco se da a la luz de los lineamientos definidos en el Programa Especial de Admisión y Movilidad Académica el cual, como se presenta en la sección [PEAMA](#peama) del presente boletín, consta de tres etapas: *etapa inicial*, *etapa de movilidad* y *etapa final*. Teniendo en cuenta lo anterior, en este capítulo se presentan las estadísticas oficiales asociadas a tres poblaciones de estudiantes matriculados en pregrado en la Sede Tumaco de la Universidad Nacional de Colombia.  
 
 * [Matriculados en pregrado](#MatPre): contiene la información oficial del total de estudiantes matricualdos en pregrado en la Universidad y que han sido admitidos a través de la Sede Tumaco. Incluye los estudiantes de pregrado que se encuentran en las tres etapas de formación: *inicial*, *movilidad* y *final*.
 
 * [Matriculados en pregrado etapa inicial](#MatPreIni): contiene la información oficial del total de estudiantes matriculados en pregrado en la Universidad, que han sido admitidos a través de la Sede Tumaco y que encuentran en la etapa inicial de su proceso de formación académica. Es decir, hace referencia a los estudiantes de pregrado que se encuentran ubicados de manera fisíca en el campus de la Sede Tumaco.
 
 * [Matriculados en pregrado etapa movilidad](#MatPreMov): contiene la información oficial del total de estudiantes matriculados en pregrado en la Universidad, que han sido admitidos a través de la Sede Tumaco y que encuentran en la etapa de movilidad en su proceso de formación académica. Es decir, hace referencia a los estudiantes de pregrado, admitidos a través de la Sede Tumaco y que se encuentran cursando sus estudios en los campus de las sedes Bogotá, Medellín, Manizales o Palmira.
-
-* [Matriculados en postgrado](#MatPos): Contiene la información de los estudiantes matriculados en los programas de postgrado adscritos a la Sede Tumaco de la Universidad Nacional de Colombia. No incluye la información de estudiantes de postgrado ubicados en la sede que se encuentren o hayan cursado, mediante la modalidad de convenios internos, un programa académico de postgrado adscrito a otras sedes de la Universidad.
 
 
 <h3>**Metadatos**</h3>
@@ -157,7 +156,7 @@ A continuación, se presenta la información oficial del total de estudiantes ma
 
 ### Evolución histórica
 
-A continuación, la Figura \@ref(fig:F1MatPreFI), presenta la evolución histórica -*desde el periodo 20091*-, del total de matriculados en pregrado -etapa inicial- en la **Sede Tumaco**.
+A continuación, la Figura \@ref(fig:F1MatPreFI), presenta la evolución histórica -*desde el periodo 20151*-, del total de matriculados en pregrado -etapa inicial- en la **Sede Tumaco**.
 
 ```{r F1MatPreFI, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional Información Académica'}
 SERIE_MAT_PRE_FI
@@ -263,7 +262,7 @@ A continuación, se presenta la información oficial del total de estudiantes ma
 
 ### Evolución histórica
 
-A continuación, la Figura \@ref(fig:F1MatPreFM), presenta la evolución histórica -*desde el periodo 20102*-, del total de matriculados en pregrado -etapa de movilidad- en la **Sede Tumaco**.
+A continuación, la Figura \@ref(fig:F1MatPreFM), presenta la evolución histórica -*desde el periodo 20152*-, del total de matriculados en pregrado -etapa de movilidad- en la **Sede Tumaco**.
 
 ```{r F1MatPreFM, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional Información Académica'}
 SERIE_MAT_PRE_FM

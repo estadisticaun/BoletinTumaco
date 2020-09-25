@@ -1,5 +1,8 @@
 # Docentes {#Doc}
 
+La Sede Tumaco, a la fecha, no cuenta con docentes de carrera adscritos de manera formal a esta sede. En esta sede, el proceso de formación de los estudiantes se da a través de varias modalidades de apoyo académico entre las que se destacan: ....
+
+
 <!-- Este capítulo presenta el consolidado de las principales características asociadas a la información estadística oficial de los docentes de carrera adscritos a la Sede Tumaco de la Universidad Nacional de Colombia así como la información estadística del personal que apoya las labores académicas en esta sede y que se encuentran vinculados a través de otras formas de contratación. -->
 
 <!-- A continuación, se presenta una breve descripción de las secciones que hacen parte de este capítulo así como la ubicación del sitio web en donde se presentan las definiciones, los estándares y las codificaciones/clasificaciones que hacen parte de la información acá contenida (*metadatos*) y cuya exploración y lectura, sin duda, facilitará el entendimiento de las cifras asociadas, principalmente, a la población de docentes de carrera en esta sede de la Universidad.  -->
@@ -23,7 +26,9 @@
 <!-- * [Metadatos Cifras Oficiales Universidad Nacional de Colombia](http://estadisticas.unal.edu.co/menu-principal/cifras-generales/metadatos/cifras-generales/) -->
 
 
-<!-- ## Docentes de carrera {#DocCar} -->
+## Docentes de carrera {#DocCar}
+
+La Sede Tumaco, a la fecha, no cuenta con docentes de carrera adscritos de manera formal a esta sede.
 
 <!-- A continuación, se presentan las principales características asociadas a los docentes de carrera de la **Sede Tumaco** de la Universidad Nacional de Colombia. En específico, se presenta la evolución histórica de los docentes desde diferentes perspectivas: general, sexo, grupos de edad y máximo nivel de formación. Para cada una de las variables analizadas se presenta la evolución histórica (*serie de tiempo*) así como el comportamiento actual (*estado actual*) derivado de las últimas mediciones disponibles. -->
 

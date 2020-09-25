@@ -1,7 +1,8 @@
 # Aspirantes y Admitidos {#Aspirantes}
 
-Este capítulo presenta el consolidado de las principales características asociadas a la información estadística oficial de los aspirantes y admitidos a pregrado y postgrado en la sede Tumaco de la Universidad Nacional de Colombia. A continuación, se presenta una breve descripción de las secciones que hacen parte de este capítulo así como la ubicación del sitio web en donde se presentan las definiciones, los estándares y las codificaciones/clasificaciones que hacen parte de la información acá contenida (*metadatos*) y cuya exploración y lectura, sin duda, facilitará el entendimiento de las cifras asociadas a las poblaciones de aspirantes y admitidos en esta sede de la Universidad. 
+Este capítulo presenta el consolidado de las principales características asociadas a la información estadística oficial de los aspirantes y admitidos a pregrado en la sede Tumaco de la Universidad Nacional de Colombia. A continuación, se presenta una breve descripción de las secciones que hacen parte de este capítulo así como la ubicación del sitio web en donde se presentan las definiciones, los estándares y las codificaciones/clasificaciones que hacen parte de la información acá contenida (*metadatos*) y cuya exploración y lectura, sin duda, facilitará el entendimiento de las cifras asociadas a las poblaciones de aspirantes y admitidos en esta sede de la Universidad. 
 
+La Sede Tumaco en la actualidad no cuenta con programas de postgrado. Por lo anterior, en este capítulo no se dispone información estadística para este nivel de formación.
 
 <h3>**Secciones**</h3> 
 
@@ -12,13 +13,10 @@ El proceso de formación en pregrado en la Sede Tumaco se da a la luz de los lin
 
 * [Admitidos a pregrado](#AdmPre): contiene la información oficial del total de admitidos a pregrado en la Sede Tumaco de la Universidad Nacional de Colombia y que se incribieron a través del Programa Especial de Admisión y Movilidad Académica [PEAMA](#peama).
 
-* [Aspirantes a postgrado](#AspPos): contiene la información oficial del total de aspirantes a los programas de postgrado adscritos a la Sede Tumaco de la Universidad Nacional de Colombia.
-
-* [Admitidos a postgrado](#AdmPos): contiene la información oficial del total de aspirantes admitidos a los programas de postgrado adscritos a la Sede Tumaco de la Universidad Nacional de Colombia.
 
 <h3>**Metadatos**</h3>
 
-La construcción de las cifras oficiales de aspirantes y admitidos a la Sede Tumaco, las definiciones que hacen parte de estas así como las codificaciones y clasificaciones aquí empleadas se encuentran contenidas en la sección **Aspirantes y Admitidos** del capítulo de *Metadatos* de las cifras oficiales generales que hacen parte de la página de [estadísticas](http://estadisticas.unal.edu.co/home/) de la Universidad Nacional de Colombia. Invitamos a los lectores a explorar y conocer estos metadatos los cuales, además de orientar y facilitar el entendimiento de la información acá expuesta, se encuentran disponibles en el siguiente enlace.
+La construcción de las cifras oficiales de aspirantes y admitidos a pregrado en la Sede Tumaco, las definiciones que hacen parte de estas así como las codificaciones y clasificaciones aquí empleadas se encuentran contenidas en la sección **Aspirantes y Admitidos** del capítulo de *Metadatos* de las cifras oficiales generales que hacen parte de la página de [estadísticas](http://estadisticas.unal.edu.co/home/) de la Universidad Nacional de Colombia. Invitamos a los lectores a explorar y conocer estos metadatos los cuales, además de orientar y facilitar el entendimiento de la información acá expuesta, se encuentran disponibles en el siguiente enlace.
 
 * [Metadatos Cifras Oficiales Universidad Nacional de Colombia](http://estadisticas.unal.edu.co/menu-principal/cifras-generales/metadatos/cifras-generales/)
 
@@ -30,7 +28,7 @@ A continuación, se presentan las principales características asociadas a los a
 
 ### Evolución Histórica
 
-A continuación, la Figura \@ref(fig:F1AspPre), presenta la evolución histórica -*desde el periodo 20082*-, del total de aspirantes a pregrado en la sede.
+A continuación, la Figura \@ref(fig:F1AspPre), presenta la evolución histórica -*desde el periodo 20151*-, del total de aspirantes a pregrado en la sede.
 
 ```{r F1AspPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
 SERIE_ASP_PRE
@@ -114,7 +112,7 @@ A continuación, se presentan las principales características asociadas a los a
 
 ### Evolución Histórica
 
-A continuación, la Figura \@ref(fig:F1AdmPre), presenta la evolución histórica -*desde el periodo 20082*-, del total de admitidos a pregrado en la sede.
+A continuación, la Figura \@ref(fig:F1AdmPre), presenta la evolución histórica -*desde el periodo 20151*-, del total de admitidos a pregrado en la sede.
 
 ```{r F1AdmPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
 SERIE_ADM_PRE

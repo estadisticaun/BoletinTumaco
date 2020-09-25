@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.7.3)  23 SEP 2020 22:52
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.7.3)  24 SEP 2020 21:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -859,7 +859,7 @@ Chapter 1.
 Chapter 2.
 [15]
 
-LaTeX Warning: Reference `fig:F1AspPre' on page 16 undefined on input line 205.
+LaTeX Warning: Reference `fig:F1AspPre' on page 16 undefined on input line 200.
 
 
 File: BoletinTumaco_files/figure-latex/F1AspPre-1.pdf Graphic file (type pdf)
@@ -869,11 +869,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [16]
 
-LaTeX Warning: Reference `fig:F2AspPre' on page 17 undefined on input line 212.
+LaTeX Warning: Reference `fig:F2AspPre' on page 17 undefined on input line 207.
 
 
 
-LaTeX Warning: Reference `fig:F3AspPre' on page 17 undefined on input line 212.
+LaTeX Warning: Reference `fig:F3AspPre' on page 17 undefined on input line 207.
 
 
 File: BoletinTumaco_files/figure-latex/F2AspPre-1.pdf Graphic file (type pdf)
@@ -881,7 +881,7 @@ File: BoletinTumaco_files/figure-latex/F2AspPre-1.pdf Graphic file (type pdf)
 File: BoletinTumaco_files/figure-latex/F3AspPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F3AspPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 214--216
+Underfull \hbox (badness 10000) in paragraph at lines 209--211
 [][]
  []
 
@@ -890,11 +890,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [17]
 
-LaTeX Warning: Reference `fig:F4AspPre' on page 18 undefined on input line 220.
+LaTeX Warning: Reference `fig:F4AspPre' on page 18 undefined on input line 215.
 
 
 
-LaTeX Warning: Reference `fig:F5AspPre' on page 18 undefined on input line 220.
+LaTeX Warning: Reference `fig:F5AspPre' on page 18 undefined on input line 215.
 
 
 File: BoletinTumaco_files/figure-latex/F4AspPre-1.pdf Graphic file (type pdf)
@@ -902,17 +902,17 @@ File: BoletinTumaco_files/figure-latex/F4AspPre-1.pdf Graphic file (type pdf)
 File: BoletinTumaco_files/figure-latex/F5AspPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F5AspPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--224
+Underfull \hbox (badness 10000) in paragraph at lines 217--219
 [][]
  []
 
 [18]
 
-LaTeX Warning: Reference `fig:F6AspPre' on page 19 undefined on input line 228.
+LaTeX Warning: Reference `fig:F6AspPre' on page 19 undefined on input line 223.
 
 
 
-LaTeX Warning: Reference `fig:F7AspPre' on page 19 undefined on input line 228.
+LaTeX Warning: Reference `fig:F7AspPre' on page 19 undefined on input line 223.
 
 
 File: BoletinTumaco_files/figure-latex/F6AspPre-1.pdf Graphic file (type pdf)
@@ -920,17 +920,17 @@ File: BoletinTumaco_files/figure-latex/F6AspPre-1.pdf Graphic file (type pdf)
 File: BoletinTumaco_files/figure-latex/F7AspPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F7AspPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--232
+Underfull \hbox (badness 10000) in paragraph at lines 225--227
 [][]
  []
 
 [19]
 
-LaTeX Warning: Reference `fig:F8AspPre' on page 20 undefined on input line 236.
+LaTeX Warning: Reference `fig:F8AspPre' on page 20 undefined on input line 231.
 
 
 
-LaTeX Warning: Reference `fig:F9AspPre' on page 20 undefined on input line 236.
+LaTeX Warning: Reference `fig:F9AspPre' on page 20 undefined on input line 231.
 
 
 File: BoletinTumaco_files/figure-latex/F8AspPre-1.pdf Graphic file (type pdf)
@@ -938,7 +938,7 @@ File: BoletinTumaco_files/figure-latex/F8AspPre-1.pdf Graphic file (type pdf)
 File: BoletinTumaco_files/figure-latex/F9AspPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F9AspPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--240
+Underfull \hbox (badness 10000) in paragraph at lines 233--235
 [][]
  []
 
@@ -946,10 +946,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 238--240
 File: BoletinTumaco_files/figure-latex/F10AspPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F10AspPre-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.04106pt on input line 257.
+LaTeX Warning: Float too large for page by 34.04106pt on input line 252.
 
 
-LaTeX Warning: Reference `fig:F1AdmPre' on page 22 undefined on input line 267.
+LaTeX Warning: Reference `fig:F1AdmPre' on page 22 undefined on input line 262.
 
 
 File: BoletinTumaco_files/figure-latex/F1AdmPre-1.pdf Graphic file (type pdf)
@@ -959,11 +959,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [22] [23]
 
-LaTeX Warning: Reference `fig:F2AdmPre' on page 24 undefined on input line 274.
+LaTeX Warning: Reference `fig:F2AdmPre' on page 24 undefined on input line 269.
 
 
 
-LaTeX Warning: Reference `fig:F3AdmPre' on page 24 undefined on input line 274.
+LaTeX Warning: Reference `fig:F3AdmPre' on page 24 undefined on input line 269.
 
 
 File: BoletinTumaco_files/figure-latex/F2AdmPre-1.pdf Graphic file (type pdf)
@@ -971,7 +971,7 @@ File: BoletinTumaco_files/figure-latex/F2AdmPre-1.pdf Graphic file (type pdf)
 File: BoletinTumaco_files/figure-latex/F3AdmPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F3AdmPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--278
+Underfull \hbox (badness 10000) in paragraph at lines 271--273
 [][]
  []
 
@@ -980,11 +980,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [24]
 
-LaTeX Warning: Reference `fig:F4AdmPre' on page 25 undefined on input line 282.
+LaTeX Warning: Reference `fig:F4AdmPre' on page 25 undefined on input line 277.
 
 
 
-LaTeX Warning: Reference `fig:F5AdmPre' on page 25 undefined on input line 282.
+LaTeX Warning: Reference `fig:F5AdmPre' on page 25 undefined on input line 277.
 
 
 File: BoletinTumaco_files/figure-latex/F4AdmPre-1.pdf Graphic file (type pdf)
@@ -992,17 +992,17 @@ File: BoletinTumaco_files/figure-latex/F4AdmPre-1.pdf Graphic file (type pdf)
 File: BoletinTumaco_files/figure-latex/F5AdmPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F5AdmPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 284--286
+Underfull \hbox (badness 10000) in paragraph at lines 279--281
 [][]
  []
 
 [25]
 
-LaTeX Warning: Reference `fig:F6AdmPre' on page 26 undefined on input line 290.
+LaTeX Warning: Reference `fig:F6AdmPre' on page 26 undefined on input line 285.
 
 
 
-LaTeX Warning: Reference `fig:F7AdmPre' on page 26 undefined on input line 290.
+LaTeX Warning: Reference `fig:F7AdmPre' on page 26 undefined on input line 285.
 
 
 File: BoletinTumaco_files/figure-latex/F6AdmPre-1.pdf Graphic file (type pdf)
@@ -1010,13 +1010,13 @@ File: BoletinTumaco_files/figure-latex/F6AdmPre-1.pdf Graphic file (type pdf)
 File: BoletinTumaco_files/figure-latex/F7AdmPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F7AdmPre-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--294
+Underfull \hbox (badness 10000) in paragraph at lines 287--289
 [][]
  []
 
 [26] [27]
 
-LaTeX Warning: Reference `fig:F8AdmPre' on page 28 undefined on input line 305.
+LaTeX Warning: Reference `fig:F8AdmPre' on page 28 undefined on input line 300.
 
 
 File: BoletinTumaco_files/figure-latex/F8AdmPre-1.pdf Graphic file (type pdf)
@@ -1031,7 +1031,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: BoletinTumaco_files/figure-latex/F9AdmPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F9AdmPre-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.10626pt on input line 318.
+LaTeX Warning: Float too large for page by 34.10626pt on input line 313.
 
 [30] [31] [32
 
@@ -1040,6 +1040,9 @@ Chapter 3.
 [33]
 File: BoletinTumaco_files/figure-latex/F1MatPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F1MatPre-1.pdf>
+
+Underfull \vbox (badness 1242) has occurred while \output is active []
+
 [34]
 File: BoletinTumaco_files/figure-latex/F2MatPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F2MatPre-1.pdf>
@@ -1066,12 +1069,12 @@ File: BoletinTumaco_files/figure-latex/F11MatPre-1.pdf Graphic file (type pdf)
 File: BoletinTumaco_files/figure-latex/F12MatPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F12MatPre-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.04106pt on input line 474.
+LaTeX Warning: Float too large for page by 34.04106pt on input line 469.
 
 File: BoletinTumaco_files/figure-latex/F13MatPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F13MatPre-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.10626pt on input line 485.
+LaTeX Warning: Float too large for page by 34.10626pt on input line 480.
 
 [37]
 File: BoletinTumaco_files/figure-latex/F1MatPreFI-1.pdf Graphic file (type pdf)
@@ -1107,13 +1110,13 @@ File: BoletinTumaco_files/figure-latex/F10MatPreFI-1.pdf Graphic file (type pdf
 )
 <use BoletinTumaco_files/figure-latex/F10MatPreFI-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.14296pt on input line 587.
+LaTeX Warning: Float too large for page by 34.14296pt on input line 582.
 
 File: BoletinTumaco_files/figure-latex/F11MatPreFI-1.pdf Graphic file (type pdf
 )
 <use BoletinTumaco_files/figure-latex/F11MatPreFI-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.10626pt on input line 598.
+LaTeX Warning: Float too large for page by 34.10626pt on input line 593.
 
 [40]
 File: BoletinTumaco_files/figure-latex/F1MatPreFM-1.pdf Graphic file (type pdf)
@@ -1153,13 +1156,13 @@ File: BoletinTumaco_files/figure-latex/F10MatPreFM-1.pdf Graphic file (type pdf
 )
 <use BoletinTumaco_files/figure-latex/F10MatPreFM-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.14296pt on input line 700.
+LaTeX Warning: Float too large for page by 34.14296pt on input line 695.
 
 File: BoletinTumaco_files/figure-latex/F11MatPreFM-1.pdf Graphic file (type pdf
 )
 <use BoletinTumaco_files/figure-latex/F11MatPreFM-1.pdf>
 
-LaTeX Warning: Float too large for page by 34.11458pt on input line 711.
+LaTeX Warning: Float too large for page by 34.11458pt on input line 706.
 
 [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59]
 [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70
@@ -1176,7 +1179,7 @@ Chapter 5.
 Chapter 6.
 [75]
 
-LaTeX Warning: Reference `fig:F1AdmiCar' on page 76 undefined on input line 763
+LaTeX Warning: Reference `fig:F1AdmiCar' on page 76 undefined on input line 767
 .
 
 File: BoletinTumaco_files/figure-latex/F1AdmiCar-1.pdf Graphic file (type pdf)
@@ -1186,7 +1189,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [76]
 
-LaTeX Warning: Reference `fig:F3AdmiCar' on page 77 undefined on input line 770
+LaTeX Warning: Reference `fig:F3AdmiCar' on page 77 undefined on input line 774
 .
 
 File: BoletinTumaco_files/figure-latex/F2AdmiCar-1.pdf Graphic file (type pdf)
@@ -1198,7 +1201,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [77]
 
-LaTeX Warning: Reference `fig:F5AdmiCar' on page 78 undefined on input line 783
+LaTeX Warning: Reference `fig:F5AdmiCar' on page 78 undefined on input line 787
 .
 
 
@@ -1226,22 +1229,22 @@ Chapter 7.
 ]
 Chapter 8.
 No file BoletinTumaco.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 830.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 834.
 [85]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 830.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 834.
 (./BoletinTumaco.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 830.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 830.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 834.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 834.
 Package rerunfilecheck Info: File `BoletinTumaco.out' has not changed.
-(rerunfilecheck)             Checksum: 518CC7F2A9F214E42A606EEE8CB93152;4153.
+(rerunfilecheck)             Checksum: 5A20F900009537F325026D1922F95FBD;4209.
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
  18731 strings out of 481269
- 346423 string characters out of 5923492
- 777513 words of memory out of 5000000
+ 346420 string characters out of 5923492
+ 777523 words of memory out of 5000000
  35937 multiletter control sequences out of 15000+600000
  538797 words of font info for 78 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191

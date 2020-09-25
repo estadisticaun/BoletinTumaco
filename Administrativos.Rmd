@@ -36,7 +36,7 @@ El número de administrativos de carrera en la Sede Tumaco de la Universidad es 
 
 ### Evolución Histórica
 
-A continuación, la Figura \@ref(fig:F1AdmiCar), presenta la evolución histórica -*desde el periodo 20082*-, del total de funcionarios administrativos de carrera de la **Sede Tumaco**.
+A continuación, la Figura \@ref(fig:F1AdmiCar), presenta la evolución histórica -*desde el periodo 20102*-, del total de funcionarios administrativos de carrera de la **Sede Tumaco**.
 
 
 ```{r F1AdmiCar, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Talento Humano'}
