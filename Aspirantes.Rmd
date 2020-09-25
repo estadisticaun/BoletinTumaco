@@ -7,7 +7,7 @@ La Sede Tumaco en la actualidad no cuenta con programas de postgrado. Por lo ant
 <h3>**Secciones**</h3> 
 
 
-El proceso de formación en pregrado en la Sede Tumaco se da a la luz de los lineamientos definidos en el Programa Especial de Admisión y Movilidad Académica [PEAMA](#peama); en contraste, la formación postgradual en en esta sede, se rige bajo los parámetros nacionales que orientan este nivel de formación. 
+El proceso de formación en pregrado en la Sede Tumaco se da a la luz de los lineamientos definidos en el Programa Especial de Admisión y Movilidad Académica [PEAMA](#peama).
 
 * [Aspirantes a pregrado](#AspPre): contiene la información oficial del total de aspirantes a pregrado en la Sede Tumaco de la Universidad Nacional de Colombia y que se incribieron a través del Programa Especial de Admisión y Movilidad Académica [PEAMA](#peama).
 
@@ -170,7 +170,7 @@ Los interesados en *imprimir*, *copiar* o *descargar* estas cifras, pueden hacer
 
 #### Departamentos y municipios de procedencia.
 
-A continuación, la tabla \@ref(fig:F8AdmPre) presenta el acumulado **histórico** por **años y semestres** en la Sede Tumaco de los admitidos a pregrado por departamentos y municipios de procedencia. 
+A continuación, la tabla \@ref(fig:F8AdmPre) presenta el acumulado **histórico**, por **años y semestres**, en la Sede Tumaco de los admitidos a pregrado por departamentos y municipios de procedencia. 
 
 ```{r F8AdmPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
 TABLA_MUNICIPIOS_ADM_PRE
@@ -179,7 +179,7 @@ TABLA_MUNICIPIOS_ADM_PRE
 
 #### Programas académicos de pregrado
 
-A continuación, la tabla \@ref(fig:F9AdmPre) presenta el acumulado **histórico** por **años y semestres** en la Sede Tumaco de los admitidos a pregrado por programas académicos y sedes andinas en las que estos se encuentran adscritos. 
+A continuación, la tabla \@ref(fig:F9AdmPre) presenta el acumulado **histórico**, por **años y semestres**, en la Sede Tumaco de los admitidos a pregrado por programas académicos y sedes andinas en las que estos se encuentran adscritos. 
 
 ```{r F9AdmPre, fig.cap='Fuente: Dirección Nacional de Planeación y Estadística con base en información de la Dirección Nacional de Admisiones'}
 TABLA_CARRERAS_ADM_PRE

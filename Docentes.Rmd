@@ -1,6 +1,6 @@
 # Docentes {#Doc}
 
-La Sede Tumaco, a la fecha, no cuenta con docentes de carrera adscritos de manera formal a esta sede. En esta sede, el proceso de formación de los estudiantes se da a través de varias modalidades de apoyo académico entre las que se destacan: ....
+La Sede Tumaco, a la fecha, **no cuenta con docentes de carrera** adscritos de manera formal a esta sede. En esta sede, el proceso de formación de los estudiantes se da a través de varias modalidades de apoyo académico entre las que se destacan: ....
 
 
 <!-- Este capítulo presenta el consolidado de las principales características asociadas a la información estadística oficial de los docentes de carrera adscritos a la Sede Tumaco de la Universidad Nacional de Colombia así como la información estadística del personal que apoya las labores académicas en esta sede y que se encuentran vinculados a través de otras formas de contratación. -->
@@ -28,7 +28,7 @@ La Sede Tumaco, a la fecha, no cuenta con docentes de carrera adscritos de maner
 
 ## Docentes de carrera {#DocCar}
 
-La Sede Tumaco, a la fecha, no cuenta con docentes de carrera adscritos de manera formal a esta sede.
+La Sede Tumaco, a la fecha, **no cuenta con docentes de carrera** adscritos de manera formal a esta sede.
 
 <!-- A continuación, se presentan las principales características asociadas a los docentes de carrera de la **Sede Tumaco** de la Universidad Nacional de Colombia. En específico, se presenta la evolución histórica de los docentes desde diferentes perspectivas: general, sexo, grupos de edad y máximo nivel de formación. Para cada una de las variables analizadas se presenta la evolución histórica (*serie de tiempo*) así como el comportamiento actual (*estado actual*) derivado de las últimas mediciones disponibles. -->
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.7.3)  24 SEP 2020 21:30
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.7.3)  25 SEP 2020 10:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -865,17 +865,14 @@ LaTeX Warning: Reference `fig:F1AspPre' on page 16 undefined on input line 200.
 File: BoletinTumaco_files/figure-latex/F1AspPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F1AspPre-1.pdf>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Reference `fig:F2AspPre' on page 16 undefined on input line 207.
+
+
+
+LaTeX Warning: Reference `fig:F3AspPre' on page 16 undefined on input line 207.
+
 
 [16]
-
-LaTeX Warning: Reference `fig:F2AspPre' on page 17 undefined on input line 207.
-
-
-
-LaTeX Warning: Reference `fig:F3AspPre' on page 17 undefined on input line 207.
-
-
 File: BoletinTumaco_files/figure-latex/F2AspPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F2AspPre-1.pdf>
 File: BoletinTumaco_files/figure-latex/F3AspPre-1.pdf Graphic file (type pdf)
@@ -886,17 +883,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--211
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Reference `fig:F4AspPre' on page 17 undefined on input line 215.
+
+
+
+LaTeX Warning: Reference `fig:F5AspPre' on page 17 undefined on input line 215.
+
+
+
+Underfull \vbox (badness 3989) has occurred while \output is active []
 
 [17]
-
-LaTeX Warning: Reference `fig:F4AspPre' on page 18 undefined on input line 215.
-
-
-
-LaTeX Warning: Reference `fig:F5AspPre' on page 18 undefined on input line 215.
-
-
 File: BoletinTumaco_files/figure-latex/F4AspPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F4AspPre-1.pdf>
 File: BoletinTumaco_files/figure-latex/F5AspPre-1.pdf Graphic file (type pdf)
@@ -906,15 +903,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--219
 [][]
  []
 
+
+LaTeX Warning: Reference `fig:F6AspPre' on page 18 undefined on input line 223.
+
+
+
+LaTeX Warning: Reference `fig:F7AspPre' on page 18 undefined on input line 223.
+
+
+
+Underfull \vbox (badness 3989) has occurred while \output is active []
+
 [18]
-
-LaTeX Warning: Reference `fig:F6AspPre' on page 19 undefined on input line 223.
-
-
-
-LaTeX Warning: Reference `fig:F7AspPre' on page 19 undefined on input line 223.
-
-
 File: BoletinTumaco_files/figure-latex/F6AspPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F6AspPre-1.pdf>
 File: BoletinTumaco_files/figure-latex/F7AspPre-1.pdf Graphic file (type pdf)
@@ -924,15 +924,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--227
 [][]
  []
 
+
+LaTeX Warning: Reference `fig:F8AspPre' on page 19 undefined on input line 231.
+
+
+
+LaTeX Warning: Reference `fig:F9AspPre' on page 19 undefined on input line 231.
+
+
+
+Underfull \vbox (badness 6876) has occurred while \output is active []
+
 [19]
-
-LaTeX Warning: Reference `fig:F8AspPre' on page 20 undefined on input line 231.
-
-
-
-LaTeX Warning: Reference `fig:F9AspPre' on page 20 undefined on input line 231.
-
-
 File: BoletinTumaco_files/figure-latex/F8AspPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F8AspPre-1.pdf>
 File: BoletinTumaco_files/figure-latex/F9AspPre-1.pdf Graphic file (type pdf)
@@ -942,14 +945,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 233--235
 [][]
  []
 
-[20] [21]
+
+Underfull \vbox (badness 3989) has occurred while \output is active []
+
+[20]
 File: BoletinTumaco_files/figure-latex/F10AspPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F10AspPre-1.pdf>
 
 LaTeX Warning: Float too large for page by 34.04106pt on input line 252.
 
 
-LaTeX Warning: Reference `fig:F1AdmPre' on page 22 undefined on input line 262.
+LaTeX Warning: Reference `fig:F1AdmPre' on page 21 undefined on input line 262.
 
 
 File: BoletinTumaco_files/figure-latex/F1AdmPre-1.pdf Graphic file (type pdf)
@@ -957,13 +963,13 @@ File: BoletinTumaco_files/figure-latex/F1AdmPre-1.pdf Graphic file (type pdf)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[22] [23]
+[21] [22]
 
-LaTeX Warning: Reference `fig:F2AdmPre' on page 24 undefined on input line 269.
+LaTeX Warning: Reference `fig:F2AdmPre' on page 23 undefined on input line 269.
 
 
 
-LaTeX Warning: Reference `fig:F3AdmPre' on page 24 undefined on input line 269.
+LaTeX Warning: Reference `fig:F3AdmPre' on page 23 undefined on input line 269.
 
 
 File: BoletinTumaco_files/figure-latex/F2AdmPre-1.pdf Graphic file (type pdf)
@@ -978,13 +984,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 271--273
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[24]
+[23]
 
-LaTeX Warning: Reference `fig:F4AdmPre' on page 25 undefined on input line 277.
+LaTeX Warning: Reference `fig:F4AdmPre' on page 24 undefined on input line 277.
 
 
 
-LaTeX Warning: Reference `fig:F5AdmPre' on page 25 undefined on input line 277.
+LaTeX Warning: Reference `fig:F5AdmPre' on page 24 undefined on input line 277.
 
 
 File: BoletinTumaco_files/figure-latex/F4AdmPre-1.pdf Graphic file (type pdf)
@@ -996,13 +1002,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 279--281
 [][]
  []
 
-[25]
+[24]
 
-LaTeX Warning: Reference `fig:F6AdmPre' on page 26 undefined on input line 285.
+LaTeX Warning: Reference `fig:F6AdmPre' on page 25 undefined on input line 285.
 
 
 
-LaTeX Warning: Reference `fig:F7AdmPre' on page 26 undefined on input line 285.
+LaTeX Warning: Reference `fig:F7AdmPre' on page 25 undefined on input line 285.
 
 
 File: BoletinTumaco_files/figure-latex/F6AdmPre-1.pdf Graphic file (type pdf)
@@ -1014,9 +1020,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 287--289
 [][]
  []
 
-[26] [27]
+[25] [26]
 
-LaTeX Warning: Reference `fig:F8AdmPre' on page 28 undefined on input line 300.
+LaTeX Warning: Reference `fig:F8AdmPre' on page 27 undefined on input line 300.
 
 
 File: BoletinTumaco_files/figure-latex/F8AdmPre-1.pdf Graphic file (type pdf)
@@ -1024,26 +1030,26 @@ File: BoletinTumaco_files/figure-latex/F8AdmPre-1.pdf Graphic file (type pdf)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[28]
+[27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[29]
+[28]
 File: BoletinTumaco_files/figure-latex/F9AdmPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F9AdmPre-1.pdf>
 
 LaTeX Warning: Float too large for page by 34.10626pt on input line 313.
 
-[30] [31] [32
+[29] [30]
+Chapter 3.
+[31
 
 ]
-Chapter 3.
-[33]
 File: BoletinTumaco_files/figure-latex/F1MatPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F1MatPre-1.pdf>
 
 Underfull \vbox (badness 1242) has occurred while \output is active []
 
-[34]
+[32]
 File: BoletinTumaco_files/figure-latex/F2MatPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F2MatPre-1.pdf>
 File: BoletinTumaco_files/figure-latex/F3MatPre-1.pdf Graphic file (type pdf)
@@ -1054,7 +1060,7 @@ File: BoletinTumaco_files/figure-latex/F5MatPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F5MatPre-1.pdf>
 File: BoletinTumaco_files/figure-latex/F6MatPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F6MatPre-1.pdf>
-[35]
+[33]
 File: BoletinTumaco_files/figure-latex/F7MatPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F7MatPre-1.pdf>
 File: BoletinTumaco_files/figure-latex/F8MatPre-1.pdf Graphic file (type pdf)
@@ -1065,7 +1071,7 @@ File: BoletinTumaco_files/figure-latex/F10MatPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F10MatPre-1.pdf>
 File: BoletinTumaco_files/figure-latex/F11MatPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F11MatPre-1.pdf>
-[36]
+[34]
 File: BoletinTumaco_files/figure-latex/F12MatPre-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F12MatPre-1.pdf>
 
@@ -1076,14 +1082,14 @@ File: BoletinTumaco_files/figure-latex/F13MatPre-1.pdf Graphic file (type pdf)
 
 LaTeX Warning: Float too large for page by 34.10626pt on input line 480.
 
-[37]
+[35]
 File: BoletinTumaco_files/figure-latex/F1MatPreFI-1.pdf Graphic file (type pdf)
 
 <use BoletinTumaco_files/figure-latex/F1MatPreFI-1.pdf>
 File: BoletinTumaco_files/figure-latex/F2MatPreFI-1.pdf Graphic file (type pdf)
 
 <use BoletinTumaco_files/figure-latex/F2MatPreFI-1.pdf>
-[38]
+[36]
 File: BoletinTumaco_files/figure-latex/F3MatPreFI-1.pdf Graphic file (type pdf)
 
 <use BoletinTumaco_files/figure-latex/F3MatPreFI-1.pdf>
@@ -1105,7 +1111,7 @@ File: BoletinTumaco_files/figure-latex/F8MatPreFI-1.pdf Graphic file (type pdf)
 File: BoletinTumaco_files/figure-latex/F9MatPreFI-1.pdf Graphic file (type pdf)
 
 <use BoletinTumaco_files/figure-latex/F9MatPreFI-1.pdf>
-[39]
+[37]
 File: BoletinTumaco_files/figure-latex/F10MatPreFI-1.pdf Graphic file (type pdf
 )
 <use BoletinTumaco_files/figure-latex/F10MatPreFI-1.pdf>
@@ -1118,11 +1124,11 @@ File: BoletinTumaco_files/figure-latex/F11MatPreFI-1.pdf Graphic file (type pdf
 
 LaTeX Warning: Float too large for page by 34.10626pt on input line 593.
 
-[40]
+[38]
 File: BoletinTumaco_files/figure-latex/F1MatPreFM-1.pdf Graphic file (type pdf)
 
 <use BoletinTumaco_files/figure-latex/F1MatPreFM-1.pdf>
-[41]
+[39]
 File: BoletinTumaco_files/figure-latex/F2MatPreFM-1.pdf Graphic file (type pdf)
 
 <use BoletinTumaco_files/figure-latex/F2MatPreFM-1.pdf>
@@ -1141,7 +1147,7 @@ File: BoletinTumaco_files/figure-latex/F6MatPreFM-1.pdf Graphic file (type pdf)
 File: BoletinTumaco_files/figure-latex/F7MatPreFM-1.pdf Graphic file (type pdf)
 
 <use BoletinTumaco_files/figure-latex/F7MatPreFM-1.pdf>
-[42]
+[40]
 File: BoletinTumaco_files/figure-latex/F8MatPreFM-1.pdf Graphic file (type pdf)
 
 <use BoletinTumaco_files/figure-latex/F8MatPreFM-1.pdf>
@@ -1151,7 +1157,7 @@ File: BoletinTumaco_files/figure-latex/F9MatPreFM-1.pdf Graphic file (type pdf)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[43]
+[41]
 File: BoletinTumaco_files/figure-latex/F10MatPreFM-1.pdf Graphic file (type pdf
 )
 <use BoletinTumaco_files/figure-latex/F10MatPreFM-1.pdf>
@@ -1164,22 +1170,22 @@ File: BoletinTumaco_files/figure-latex/F11MatPreFM-1.pdf Graphic file (type pdf
 
 LaTeX Warning: Float too large for page by 34.11458pt on input line 706.
 
-[44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59]
-[60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70
+[42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57]
+[58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68
 
 ]
 Chapter 4.
-[71] [72
+[69] [70
 
 ]
 Chapter 5.
-[73] [74
+[71] [72
 
 ]
 Chapter 6.
-[75]
+[73]
 
-LaTeX Warning: Reference `fig:F1AdmiCar' on page 76 undefined on input line 767
+LaTeX Warning: Reference `fig:F1AdmiCar' on page 74 undefined on input line 767
 .
 
 File: BoletinTumaco_files/figure-latex/F1AdmiCar-1.pdf Graphic file (type pdf)
@@ -1187,9 +1193,9 @@ File: BoletinTumaco_files/figure-latex/F1AdmiCar-1.pdf Graphic file (type pdf)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[76]
+[74]
 
-LaTeX Warning: Reference `fig:F3AdmiCar' on page 77 undefined on input line 774
+LaTeX Warning: Reference `fig:F3AdmiCar' on page 75 undefined on input line 774
 .
 
 File: BoletinTumaco_files/figure-latex/F2AdmiCar-1.pdf Graphic file (type pdf)
@@ -1199,15 +1205,15 @@ File: BoletinTumaco_files/figure-latex/F3AdmiCar-1.pdf Graphic file (type pdf)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[77]
+[75]
 
-LaTeX Warning: Reference `fig:F5AdmiCar' on page 78 undefined on input line 787
+LaTeX Warning: Reference `fig:F5AdmiCar' on page 76 undefined on input line 787
 .
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[78]
+[76]
 File: BoletinTumaco_files/figure-latex/F4AdmiCar-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F4AdmiCar-1.pdf>
 File: BoletinTumaco_files/figure-latex/F5AdmiCar-1.pdf Graphic file (type pdf)
@@ -1215,22 +1221,22 @@ File: BoletinTumaco_files/figure-latex/F5AdmiCar-1.pdf Graphic file (type pdf)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[79]
+[77]
 File: BoletinTumaco_files/figure-latex/F6AdmiCar-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F6AdmiCar-1.pdf>
 File: BoletinTumaco_files/figure-latex/F7AdmiCar-1.pdf Graphic file (type pdf)
 <use BoletinTumaco_files/figure-latex/F7AdmiCar-1.pdf>
-[80] [81] [82]
+[78] [79] [80]
 Chapter 7.
-[83
+[81
 
-] [84
+] [82
 
 ]
 Chapter 8.
 No file BoletinTumaco.bbl.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 834.
-[85]
+[83]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 834.
 (./BoletinTumaco.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 834.
@@ -1250,4 +1256,4 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  58i,6n,118p,1347b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on BoletinTumaco.pdf (85 pages).
+Output written on BoletinTumaco.pdf (83 pages).
